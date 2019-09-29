@@ -3,8 +3,9 @@
 ## [PCから(簡単)](#PCからの使い方)
 ### [FAQ](#FAQ)
 ---
+# アウトプット  
+<img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/output.jpg">
 
----
 ### 携帯からの使い方
 > ### <注意>
 > #### **Googleアカウント必須**
@@ -35,6 +36,7 @@
 ### PCからの使い方
 > ### <注意>
 > #### **Googleアカウント必須**
+---
 
 1. Gitのリンクをコピーしておく。<br>
   (https://github.com/HidetoshiSakamoto/tanni_keisan)
