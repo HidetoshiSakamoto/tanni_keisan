@@ -1,7 +1,7 @@
 
 ## [携帯から](#携帯からの使い方)
 ## [PCから(簡単)](#PCからの使い方)
-### [FAQ](#FAQ)
+### [FAQ](#FAQ:)
 ---
 # アウトプット  
 <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/output.jpg">
@@ -58,7 +58,7 @@
 
 ---
 
-### FAQ
+### FAQ:
 
 ### ・Google colaboratoryが反応しない
 >・Chromeで実行してますか？Safariとか他のだと上手くいかないかも
