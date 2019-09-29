@@ -49,12 +49,13 @@
 3. そこにコピーしたGitのリンクをペーストし、リターンをおす。少し待つと選択肢が現れるので **単位計算.ipynb** を選択。
 <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/pc_3.jpg">
 
-4. `keio.jp`にアクセスし、学業成績表ページを開く。右上のメニューのボタンから `デベロッパーツール`を開く。`Elements`ボタンを押して、`<html lang="ja"><head>`の横の`･･･`ボタンから`Copy` > `Copy outerHTML`を選択。
+4. `keio.jp`にアクセスし、 `学業成績表ページ`を開く。右上のメニューのボタンから `デベロッパーツール`を開く。`Elements`ボタンを押して、`<html lang="ja"><head>`の横の`･･･`ボタンから`Copy` > `Copy outerHTML`を選択。
 <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/pc_4_1.jpg">
 <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/pc_4_2.jpg">
 
 5. google colaboratoryに戻り、一番下までスクロールし、左の方にある `▶︎` ボタンを押す。少し待って、`このまま実行`を選択。すると入力する欄が出てくるので、そこにコピーしてきたコードをペーストして、エンターを押す。
 <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/pc_5.jpg">
+
 ---
 
 ### FAQ
