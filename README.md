@@ -1,9 +1,11 @@
-# tanni_keisan
+## 携帯からの使い方
+## PCからの使い方
+---
 
-# 携帯での使い方
-
-### **事前に[HTML Viewer](https://apps.apple.com/jp/app/html-viewer-q/id810042973)をダウンロードしておく**
-### **Googleアカウント必須**
+### 携帯からの使い方
+#### <注意>
+> #### **Googleアカウント必須**
+> ### **事前に[HTML Viewer](https://apps.apple.com/jp/app/html-viewer-q/id810042973)をダウンロードしておく**
 ---
 1. Gitのリンクをコピーしておく。<br>
   (https://github.com/HidetoshiSakamoto/tanni_keisan)
