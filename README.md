@@ -12,7 +12,7 @@
 1. Gitのリンクをコピーしておく。<br>
   (https://github.com/HidetoshiSakamoto/tanni_keisan)
 
-1. [Google colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)を **Chrome** で開き、左上のメニューボタンから **ノートブックを開く** を選択し、右のほうの **GIT HUB** を選択する。
+1. [Google colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)を `Chromeで開き`、左上のメニューボタンから **ノートブックを開く** を選択し、右のほうの **GIT HUB** を選択する。
 
 1. そこにコピーしたGitのリンクをペーストし、リターンをおす。少し待つと選択肢が現れるので **単位計算.ipynb** を選択。
 
@@ -20,7 +20,9 @@
 
 1. 右上の **🔗** ボタンをタップし、アドレス欄に `keio.jp` を入力。通常通りに学業成績表を開き、左上の **</>** ボタンをタップし、表示されたコードを全てコピー(少し時間かかる)
 
-1. google colaboratoryに戻り、左の方にある `▶︎` ボタンを押す。一番下までスクロールすると入力する欄があるので、そこにコピーしてきたコードをペーストして、エンターを押す。
+1. google colaboratoryに戻り、一番下までスクロールし、左の方にある `▶︎` ボタンを押す。少し待って、`このまま実行`を選択。すると入力する欄が出てくるので、そこにコピーしてきたコードをペーストして、エンターを押す。
+
+
 
 ---
 ### PCからの使い方
