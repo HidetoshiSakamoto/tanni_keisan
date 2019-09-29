@@ -13,6 +13,7 @@
   (https://github.com/HidetoshiSakamoto/tanni_keisan)
 
 1. [Google colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)を `Chromeで開き`、左上のメニューボタンから **ノートブックを開く** を選択し、右のほうの **GIT HUB** を選択する。
+<img src="/images/m_2.jpg">
 
 1. そこにコピーしたGitのリンクをペーストし、リターンをおす。少し待つと選択肢が現れるので **単位計算.ipynb** を選択。
 
