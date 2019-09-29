@@ -52,6 +52,7 @@
 5. google colaboratoryに戻り、一番下までスクロールし、左の方にある `▶︎` ボタンを押す。少し待って、`このまま実行`を選択。すると入力する欄が出てくるので、そこにコピーしてきたコードをペーストして、エンターを押す。
 <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/pc_5.jpg">
 ---
+
 ### FAQ
 
 ### ・Google colaboratoryが反応しない
