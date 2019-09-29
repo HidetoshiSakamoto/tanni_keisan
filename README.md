@@ -16,12 +16,16 @@
 <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/m_2.jpg">
 
 1. そこにコピーしたGitのリンクをペーストし、リターンをおす。少し待つと選択肢が現れるので **単位計算.ipynb** を選択。
+<img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/m_3.jpg">
 
 1. 一旦Chromeを離れて **HTML Viewer** を開く。
 
 1. 右上の **🔗** ボタンをタップし、アドレス欄に `keio.jp` を入力。通常通りに学業成績表を開き、左上の **</>** ボタンをタップし、表示されたコードを全てコピー(少し時間かかる)
+<img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/m_5_1.jpg">
+<img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/m_5_2.jpg">
 
 1. google colaboratoryに戻り、一番下までスクロールし、左の方にある `▶︎` ボタンを押す。少し待って、`このまま実行`を選択。すると入力する欄が出てくるので、そこにコピーしてきたコードをペーストして、エンターを押す。
+<img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/m_6.jpg">
 
 
 
