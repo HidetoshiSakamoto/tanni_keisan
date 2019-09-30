@@ -66,3 +66,14 @@
 
 > ・セルが死んでいる可能性が高いから、`メニュー` > `ランタイム` > `全てのランタイムをリセット`を押してから、再度実行すれば上手くいくかも
 <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/faq_1.jpg">
+
+### ・デベロッパーツールが見当たらない
+1. Safariで開いてる場合。
+  1. 左上の `Safari` から `環境設定`を選択。
+  <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/faq_2_1.jpg">
+
+  2. 右のほうの `詳細`ボタンから `メニューバーに開発メニューを表示`をチェック
+  <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/faq_2_2.jpg">
+
+  3. 上の方の`開発`から `ページのソースを表示`をクリック。すると下の方にコードが表示されるはず。
+  <img src="https://github.com/HidetoshiSakamoto/tanni_keisan/blob/images/images/faq_2_3.jpg">
